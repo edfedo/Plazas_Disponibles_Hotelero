@@ -1,6 +1,6 @@
 Tecnicatura: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
-Institucion: Politécnico Malvinas Argentinas. ( https://politecnico.tdf.gob.ar/ ) 
+Institucion: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
 
 Materia: Aprendizaje Automático
 
