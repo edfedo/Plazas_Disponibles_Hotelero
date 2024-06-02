@@ -1,6 +1,6 @@
 
-https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png
 
+![texto cualquiera por si no carga la imagen](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
 
 
 
