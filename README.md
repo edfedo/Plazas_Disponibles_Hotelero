@@ -34,7 +34,7 @@ Link2: https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/
 
 ------------
 
-Preguntas de Investigacion del Proyecto:
+--> Preguntas de Investigacion del Proyecto:
 
 ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia?
 
@@ -46,7 +46,9 @@ Propósito: Determinar los factores clave que afectan la disponibilidad de plaza
 
 ¿Es posible predecir la cantidad de plazas disponibles en el sector hotelero y parahotelero para futuros períodos utilizando modelos de aprendizaje automático?
 
-Propósito: Desarrollar un modelo predictivo que ayude a anticipar la demanda y ajustar la oferta de manera proactiva.¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?
+Propósito: Desarrollar un modelo predictivo que ayude a anticipar la demanda y ajustar la oferta de manera proactiva.
+
+¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?
 
 Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático para seleccionar el más adecuado.
 
@@ -56,9 +58,9 @@ Propósito: Analizar cómo eventos específicos afectan la disponibilidad de pla
 
 ------------
 
-Diferentes Etapas del Proyecto:
+--> Diferentes Etapas del Proyecto:
 
-Metodología Extracción y Preparación de Datos
+--> Metodología Extracción y Preparación de Datos
 
 Extracción de Datos: Los datos se extrajeron de un archivo y se convirtieron a un DataFrame de pandas.
 
@@ -71,7 +73,7 @@ Estadísticas Descriptivas: Cálculo de medias, medianas, desviaciones estándar
 
 Correlación: Análisis de la correlación entre las diferentes variables para identificar relaciones importantes. 
 
-Modelado Predictivo
+--> Modelado Predictivo
 
 Selección de Modelos: Elección de modelos de aprendizaje automático adecuados, como regresión lineal, árboles de decisión o redes neuronales.
 
@@ -79,13 +81,13 @@ Entrenamiento de Modelos: Dividir los datos en conjuntos de entrenamiento y prue
 
 Evaluación de Modelos: Medir el rendimiento de los modelos utilizando métricas apropiadas como MAE, MSE, RMSE o R2.
 
-Optimización y Validación
+--> Optimización y Validación
 
 Optimización de Hiperparámetros: Ajuste de los hiperparámetros del modelo para mejorar su rendimiento.
 
 Validación Cruzada: Uso de técnicas de validación cruzada para asegurar que el modelo generaliza bien a datos no vistos.
 
-Interpretación y Comunicación de Resultados
+--> Interpretación y Comunicación de Resultados
 
 Interpretación de Resultados: Análisis de los resultados obtenidos para extraer conclusiones significativas.
 
@@ -93,14 +95,13 @@ Visualización de Resultados: Presentación de los resultados a través de gráf
 
 Informe Final: Elaboración de un informe detallado que resuma los hallazgos y las recomendaciones basadas en el análisis.
 
-Resultados Esperados
+--> Resultados Esperados
 
 Patrones de Temporada: Identificación de patrones estacionales en la oferta hotelera y parahotelera.
 
 Predicciones de Oferta: Modelos predictivos que puedan estimar la disponibilidad futura de plazas y habitaciones.
 
 ------------
-
 
 Project Organization
 
