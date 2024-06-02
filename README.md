@@ -4,6 +4,8 @@ Institucion: Politécnico Malvinas Argentinas.
 
 Materia: Aprendizaje Automático
 
+------------
+
 cookiecutter.project: Plazas Disponibles Hotelero
 
 Desarrollado por: Federico D'Oliveira
