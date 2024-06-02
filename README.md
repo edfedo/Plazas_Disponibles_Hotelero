@@ -1,3 +1,9 @@
+
+https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png
+
+
+
+
 Tecnicatura: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
 Institucion: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
