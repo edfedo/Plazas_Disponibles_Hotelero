@@ -1,10 +1,7 @@
 
 
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
-[copyright Foto](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
-
-
-
+[copyright foto](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
 
 Tecnicatura: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
