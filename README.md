@@ -14,6 +14,19 @@ Desarrollado por: Federico D'Oliveira
 
 cookiecutter.description: El objetivo principal de este proyecto es aplicar técnicas de Aprendizaje Automático para analizar y predecir la oferta hotelera y parahotelera en Ushuaia, utilizando datos históricos de establecimientos, plazas disponibles y habitaciones/unidades disponibles. Este análisis busca proporcionar insights valiosos para los interesados en la industria del turismo, permitiendo una mejor planificación y toma de decisiones.
 
+------------
+
+Preguntas de Investigacion del Proyecto:
+
+
+------------
+
+Diferentes Etapas del Proyecto:
+
+
+------------
+
+
 Project Organization
 ------------
 
