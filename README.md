@@ -36,9 +36,68 @@ Link2: https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/
 
 Preguntas de Investigacion del Proyecto:
 
+¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia?
+
+Propósito: Identificar los períodos de alta y baja demanda para optimizar la gestión de recursos y la planificación estratégica.
+
+¿Qué variables (por ejemplo, número de establecimientos, habitaciones disponibles) influyen más significativamente en la disponibilidad de plazas en ambos sectores?
+
+Propósito: Determinar los factores clave que afectan la disponibilidad de plazas para mejorar las predicciones y la gestión de la oferta.
+
+¿Es posible predecir la cantidad de plazas disponibles en el sector hotelero y parahotelero para futuros períodos utilizando modelos de aprendizaje automático?
+
+Propósito: Desarrollar un modelo predictivo que ayude a anticipar la demanda y ajustar la oferta de manera proactiva.¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?
+
+Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático para seleccionar el más adecuado.
+
+¿Cuál es el impacto de eventos específicos (por ejemplo, ferias, festivales, condiciones climáticas) en la oferta y demanda de plazas?
+
+Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia.
+
 ------------
 
 Diferentes Etapas del Proyecto:
+
+Metodología Extracción y Preparación de Datos
+
+Extracción de Datos: Los datos se extrajeron de un archivo y se convirtieron a un DataFrame de pandas.
+
+Preprocesamiento: Incluye la conversión de la columna Periodo a un formato de fecha, manejo de valores nulos y escalamiento de los datos si es necesario.
+Análisis Exploratorio de Datos (EDA)
+
+Visualización de Datos: Utilización de gráficos para entender la distribución de las variables.
+
+Estadísticas Descriptivas: Cálculo de medias, medianas, desviaciones estándar y otras estadísticas relevantes.
+
+Correlación: Análisis de la correlación entre las diferentes variables para identificar relaciones importantes. 
+
+Modelado Predictivo
+
+Selección de Modelos: Elección de modelos de aprendizaje automático adecuados, como regresión lineal, árboles de decisión o redes neuronales.
+
+Entrenamiento de Modelos: Dividir los datos en conjuntos de entrenamiento y prueba, y entrenar los modelos utilizando el conjunto de entrenamiento.
+
+Evaluación de Modelos: Medir el rendimiento de los modelos utilizando métricas apropiadas como MAE, MSE, RMSE o R2.
+
+Optimización y Validación
+
+Optimización de Hiperparámetros: Ajuste de los hiperparámetros del modelo para mejorar su rendimiento.
+
+Validación Cruzada: Uso de técnicas de validación cruzada para asegurar que el modelo generaliza bien a datos no vistos.
+
+Interpretación y Comunicación de Resultados
+
+Interpretación de Resultados: Análisis de los resultados obtenidos para extraer conclusiones significativas.
+
+Visualización de Resultados: Presentación de los resultados a través de gráficos y visualizaciones claras y comprensibles.
+
+Informe Final: Elaboración de un informe detallado que resuma los hallazgos y las recomendaciones basadas en el análisis.
+
+Resultados Esperados
+
+Patrones de Temporada: Identificación de patrones estacionales en la oferta hotelera y parahotelera.
+
+Predicciones de Oferta: Modelos predictivos que puedan estimar la disponibilidad futura de plazas y habitaciones.
 
 ------------
 
