@@ -14,8 +14,7 @@ en mi caso es--> c:/users/lenovo>
 
 1- Ejecutamos: pip install cookiecutter-data-science 
 
-2- esperar un buen rato, tarda el guachin!!!!
-   te das cuenta q termina porq te devuelve la salida
+2- esperar un buen rato, tarda!!!!!!
 
 3- Ejecutamos: cookiecutter https://github.com/drivendata/cookiecutter-data-science -c v1
 
