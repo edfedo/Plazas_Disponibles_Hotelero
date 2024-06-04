@@ -3,27 +3,33 @@
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
 [copyright foto](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
 
-Tecnicatura: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+Technique: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
-Institucion: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
+Institution: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
 
-Materia: Aprendizaje Automático 
+Subject: Aprendizaje Automático 
 
-Año: 2024
+Year: 2024
 
 ------------
 
-cookiecutter.project: Plazas Disponibles Hotelero
+cookiecutter.project: Plazas Disponibles Hotelero / Available Places Hotelier
 
-Desarrollado por: Federico D'Oliveira
+Developed by: Federico D'Oliveira
 
 ------------
 
 cookiecutter.description: El objetivo principal de este proyecto es aplicar técnicas de Aprendizaje Automático para analizar y predecir la oferta hotelera y parahotelera en Ushuaia, utilizando datos históricos de establecimientos, plazas disponibles y habitaciones/unidades disponibles. Este análisis busca proporcionar insights valiosos para los interesados en la industria del turismo, permitiendo una mejor planificación y toma de decisiones.
 
+
+cookiecutter.description: The main objective of this project is to apply Machine Learning techniques to analyze and predict the hotel and parahotel offer in Ushuaia, using historical data on establishments, available places and available rooms/units. This analysis seeks to provide valuable insights for those interested in the tourism industry, allowing for better planning and decision making.
+
 ------------
 
 DataSet: El mismo fue obtenido desde la web del Instituto Provincial de Analisis E Investigacion, Estadistica y Censos
+
+DataSet: It was obtained from the website of the Provincial Institute of Analysis and Research, Statistics and Censuses.
+
 
 Link: https://ipiec.tierradelfuego.gob.ar/
 
