@@ -112,10 +112,10 @@ Lenguajes y herramientas
  <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-FFBE00?style=for-the-badge&logo=Machine_Learning&logoColor=white" alt="machine learning"/>
   </a>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/GitHub-FFEV00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
+ <img decoding="async" src="https://img.shields.io/badge/GitHub-FFEE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
   </a>
     </a>
- <img decoding="async" src="https://img.shields.io/badge/Anaconda-FFRE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
+ <img decoding="async" src="https://img.shields.io/badge/Anaconda-FFEE10?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
   </a>
 </div>
 
