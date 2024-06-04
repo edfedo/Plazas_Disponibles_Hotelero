@@ -102,6 +102,15 @@ Predicciones de Oferta: Modelos predictivos que puedan estimar la disponibilidad
 
 Lenguajes y herramientas
 
+
+<img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" />
+
+
+
+
+
+
+
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
