@@ -1,7 +1,7 @@
 
 
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
-[copyright foto](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
+[copyright](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
 
 Degree: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
@@ -125,6 +125,7 @@ Lenguajes y herramientas
 </a> 
 </div>
 
+------------
 
 [iconos](https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-)
 
