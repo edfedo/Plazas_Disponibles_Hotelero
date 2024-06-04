@@ -118,7 +118,7 @@ Lenguajes y herramientas
  <img decoding="async" src="https://img.shields.io/badge/Anaconda-009900?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
   </a>
     </a>
- <img decoding="async" src=" https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" alt="machine learning"/>
+ <img decoding="async" src=" https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" alt="Cookiecutter"/>
   </a>
      
 </div>
