@@ -117,9 +117,11 @@ Lenguajes y herramientas
 </a>  
 <img src="https://img.shields.io/badge/DataSet-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
 </a> 
-    
+<img src="https://img.shields.io/badge/Microsoft_Excel_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</a> 
+<img src="https://img.shields.io/badge/machine learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</a>     
 </div>
-
 
 ------------
 
