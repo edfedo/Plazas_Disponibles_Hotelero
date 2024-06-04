@@ -113,6 +113,11 @@ Lenguajes y herramientas
 </a>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </a>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+</a>  
+<img src="https://img.shields.io/badge/DataSet-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F" />
+</a> 
+    
 </div>
 
 
