@@ -113,9 +113,9 @@ Predicciones de Oferta: Modelos predictivos que puedan estimar la disponibilidad
   </a>
     <img decoding="async" src="https://img.shields.io/badge/Dataset-6DB33F?style=for-the-badge&logo=dataset&logoColor=white" alt="dataset"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel cvs"/>
+ <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel cvs"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
+ <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
   </a>
 
 </div>
