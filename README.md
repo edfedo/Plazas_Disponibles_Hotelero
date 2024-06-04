@@ -3,11 +3,12 @@
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
 [copyright foto](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
 
-Technique: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+Degree: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+        Higher Technique in Data Science and Artificial Intelligence.
 
 Institution: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
 
-Subject: Aprendizaje Automático 
+Subject: Aprendizaje Automático / Machine Learning
 
 Year: 2024
 
