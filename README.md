@@ -122,6 +122,9 @@ Lenguajes y herramientas
 
 </div>
 
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+
 ------------
 
 Project Organization
@@ -177,8 +180,3 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-
---------
-
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
