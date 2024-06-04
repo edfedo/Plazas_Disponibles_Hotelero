@@ -4,6 +4,7 @@
 [copyright foto](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
 
 Degree: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+
         Higher Technique in Data Science and Artificial Intelligence.
 
 Institution: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
