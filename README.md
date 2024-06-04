@@ -120,6 +120,8 @@ Lenguajes y herramientas
     </a>
  <img decoding="async" src=" https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" alt="Cookiecutter"/>
   </a>
+
+<img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
      
 </div>
 
