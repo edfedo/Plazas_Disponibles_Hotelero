@@ -5,7 +5,7 @@
 
 Degree: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
-        Higher Technique in Data Science and Artificial Intelligence.
+Higher Technique in Data Science and Artificial Intelligence.
 
 Institution: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
 
