@@ -13,6 +13,9 @@ Subject: Aprendizaje Automático / Machine Learning
 
 Year: 2024
 
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
+
 ------------
 
 cookiecutter.project: Plazas Disponibles Hotelero / Available Places Hotelier
@@ -120,10 +123,6 @@ Lenguajes y herramientas
  <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
   </a>
 
-</div>
-
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edfedo&color=00cf00" alt=""/>
 </div>
 
 ------------
