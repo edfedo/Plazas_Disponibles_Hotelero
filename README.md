@@ -13,9 +13,6 @@ Subject: Aprendizaje Automático / Machine Learning
 
 Year: 2024
 
-<div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edfedo.Plazas_disponibles_Hotelero&color=00cf00" alt=""/>
-</div>
 ------------
 
 cookiecutter.project: Plazas Disponibles Hotelero / Available Places Hotelier
