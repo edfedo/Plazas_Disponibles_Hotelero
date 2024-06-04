@@ -31,7 +31,7 @@
 
 ------------
 
-**Preguntas de Investigacion del Proyecto:**
+[-] **Preguntas de Investigacion del Proyecto:**
 
 ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia?
 
