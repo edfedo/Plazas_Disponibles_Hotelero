@@ -102,32 +102,14 @@ Predicciones de Oferta: Modelos predictivos que puedan estimar la disponibilidad
 
 Lenguajes y herramientas
 
-
-<img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" />
-
-
-
-
-
-
-
 <div id="header" align="left">
-    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img decoding="async" src="https://img.shields.io/badge/Dataset-6DB33F?style=for-the-badge&logo=dataset&logoColor=white" alt="dataset"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel cvs"/>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-FFBE00?style=for-the-badge&logo=Machine_Learning&logoColor=white" alt="machine learning"/>
-  </a>
-  </a>
- <img decoding="async" src="https://img.shields.io/badge/GitHub-660066?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
-  </a>
-    </a>
- <img decoding="async" src="https://img.shields.io/badge/Anaconda-009900?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
-  </a>
-      
+<img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" />
+</a>
+
+
+
 </div>
+
 
 ------------
 
