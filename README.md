@@ -3,35 +3,35 @@
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
 [copyright](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
 
-Degree: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+**Degree:** Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
-Institution: Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
+**Institution:** Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
 
-Subject: Aprendizaje Automático / Machine Learning
+**Subject:** Aprendizaje Automático / Machine Learning
 
-Year: 2024
-
-------------
-
-cookiecutter.project: Plazas Disponibles Hotelero / Available Places Hotelier
-
-Developed by: Federico D'Oliveira
+**Year:** 2024
 
 ------------
 
-cookiecutter.description: El objetivo principal de este proyecto es aplicar técnicas de Aprendizaje Automático para analizar y predecir la oferta hotelera y parahotelera en Ushuaia, utilizando datos históricos de establecimientos, plazas disponibles y habitaciones/unidades disponibles. Este análisis busca proporcionar insights valiosos para los interesados en la industria del turismo, permitiendo una mejor planificación y toma de decisiones.
+**cookiecutter.project:** Plazas Disponibles Hotelero / Available Places Hotelier
+
+**Developed by:** Federico D'Oliveira
 
 ------------
 
-DataSet: El mismo fue obtenido desde la web del Instituto Provincial de Analisis E Investigacion, Estadistica y Censos
-
-Link: https://ipiec.tierradelfuego.gob.ar/
-
-Link2: https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/
+**cookiecutter.description:** El objetivo principal de este proyecto es aplicar técnicas de Aprendizaje Automático para analizar y predecir la oferta hotelera y parahotelera en Ushuaia, utilizando datos históricos de establecimientos, plazas disponibles y habitaciones/unidades disponibles. Este análisis busca proporcionar insights valiosos para los interesados en la industria del turismo, permitiendo una mejor planificación y toma de decisiones.
 
 ------------
 
---> Preguntas de Investigacion del Proyecto:
+**DataSet:** El mismo fue obtenido desde la web del Instituto Provincial de Analisis E Investigacion, Estadistica y Censos
+
+**Link:** https://ipiec.tierradelfuego.gob.ar/
+
+**Link2:** https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/
+
+------------
+
+**Preguntas de Investigacion del Proyecto:**
 
 ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia?
 
@@ -55,52 +55,52 @@ Propósito: Analizar cómo eventos específicos afectan la disponibilidad de pla
 
 ------------
 
---> Diferentes Etapas del Proyecto:
+**Diferentes Etapas del Proyecto:**
 
---> Metodología Extracción y Preparación de Datos
+**Metodología Extracción y Preparación de Datos**
 
-Extracción de Datos: Los datos se extrajeron de un archivo y se convirtieron a un DataFrame de pandas.
+**Extracción de Datos:** Los datos se extrajeron de un archivo y se convirtieron a un DataFrame de pandas.
 
-Preprocesamiento: Incluye la conversión de la columna Periodo a un formato de fecha, manejo de valores nulos y escalamiento de los datos si es necesario.
+**Preprocesamiento:** Incluye la conversión de la columna Periodo a un formato de fecha, manejo de valores nulos y escalamiento de los datos si es necesario.
 Análisis Exploratorio de Datos (EDA)
 
-Visualización de Datos: Utilización de gráficos para entender la distribución de las variables.
+**Visualización de Datos:** Utilización de gráficos para entender la distribución de las variables.
 
-Estadísticas Descriptivas: Cálculo de medias, medianas, desviaciones estándar y otras estadísticas relevantes.
+**Estadísticas Descriptivas:** Cálculo de medias, medianas, desviaciones estándar y otras estadísticas relevantes.
 
-Correlación: Análisis de la correlación entre las diferentes variables para identificar relaciones importantes. 
+**Correlación:** Análisis de la correlación entre las diferentes variables para identificar relaciones importantes. 
 
---> Modelado Predictivo
+**Modelado Predictivo**
 
-Selección de Modelos: Elección de modelos de aprendizaje automático adecuados, como regresión lineal, árboles de decisión o redes neuronales.
+**Selección de Modelos:** Elección de modelos de aprendizaje automático adecuados, como regresión lineal, árboles de decisión o redes neuronales.
 
-Entrenamiento de Modelos: Dividir los datos en conjuntos de entrenamiento y prueba, y entrenar los modelos utilizando el conjunto de entrenamiento.
+**Entrenamiento de Modelos:** Dividir los datos en conjuntos de entrenamiento y prueba, y entrenar los modelos utilizando el conjunto de entrenamiento.
 
-Evaluación de Modelos: Medir el rendimiento de los modelos utilizando métricas apropiadas como MAE, MSE, RMSE o R2.
+**Evaluación de Modelos:** Medir el rendimiento de los modelos utilizando métricas apropiadas como MAE, MSE, RMSE o R2.
 
---> Optimización y Validación
+**Optimización y Validación**
 
-Optimización de Hiperparámetros: Ajuste de los hiperparámetros del modelo para mejorar su rendimiento.
+**Optimización de Hiperparámetros:** Ajuste de los hiperparámetros del modelo para mejorar su rendimiento.
 
-Validación Cruzada: Uso de técnicas de validación cruzada para asegurar que el modelo generaliza bien a datos no vistos.
+**Validación Cruzada:** Uso de técnicas de validación cruzada para asegurar que el modelo generaliza bien a datos no vistos.
 
---> Interpretación y Comunicación de Resultados
+**Interpretación y Comunicación de Resultados**
 
-Interpretación de Resultados: Análisis de los resultados obtenidos para extraer conclusiones significativas.
+**Interpretación de Resultados:** Análisis de los resultados obtenidos para extraer conclusiones significativas.
 
-Visualización de Resultados: Presentación de los resultados a través de gráficos y visualizaciones claras y comprensibles.
+**Visualización de Resultados:** Presentación de los resultados a través de gráficos y visualizaciones claras y comprensibles.
 
-Informe Final: Elaboración de un informe detallado que resuma los hallazgos y las recomendaciones basadas en el análisis.
+**Informe Final:** Elaboración de un informe detallado que resuma los hallazgos y las recomendaciones basadas en el análisis.
 
---> Resultados Esperados
+**Resultados Esperados**
 
-Patrones de Temporada: Identificación de patrones estacionales en la oferta hotelera y parahotelera.
+**Patrones de Temporada:** Identificación de patrones estacionales en la oferta hotelera y parahotelera.
 
-Predicciones de Oferta: Modelos predictivos que puedan estimar la disponibilidad futura de plazas y habitaciones.
+**Predicciones de Oferta:** Modelos predictivos que puedan estimar la disponibilidad futura de plazas y habitaciones.
 
 ------------
 
-Lenguajes y herramientas
+**Lenguajes y herramientas**
 
 <div id="header" align="left">
 <img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" />
