@@ -55,9 +55,9 @@ Propósito: Analizar cómo eventos específicos afectan la disponibilidad de pla
 
 ------------
 
-**Diferentes Etapas del Proyecto:**
+[-] **Diferentes Etapas del Proyecto:**
 
-**Metodología Extracción y Preparación de Datos**
+[-] **Metodología Extracción y Preparación de Datos**
 
 **Extracción de Datos:** Los datos se extrajeron de un archivo y se convirtieron a un DataFrame de pandas.
 
@@ -70,7 +70,7 @@ Análisis Exploratorio de Datos (EDA)
 
 **Correlación:** Análisis de la correlación entre las diferentes variables para identificar relaciones importantes. 
 
-**Modelado Predictivo**
+[-] **Modelado Predictivo**
 
 **Selección de Modelos:** Elección de modelos de aprendizaje automático adecuados, como regresión lineal, árboles de decisión o redes neuronales.
 
@@ -78,13 +78,13 @@ Análisis Exploratorio de Datos (EDA)
 
 **Evaluación de Modelos:** Medir el rendimiento de los modelos utilizando métricas apropiadas como MAE, MSE, RMSE o R2.
 
-**Optimización y Validación**
+[-] **Optimización y Validación**
 
 **Optimización de Hiperparámetros:** Ajuste de los hiperparámetros del modelo para mejorar su rendimiento.
 
 **Validación Cruzada:** Uso de técnicas de validación cruzada para asegurar que el modelo generaliza bien a datos no vistos.
 
-**Interpretación y Comunicación de Resultados**
+[-] **Interpretación y Comunicación de Resultados**
 
 **Interpretación de Resultados:** Análisis de los resultados obtenidos para extraer conclusiones significativas.
 
@@ -92,7 +92,7 @@ Análisis Exploratorio de Datos (EDA)
 
 **Informe Final:** Elaboración de un informe detallado que resuma los hallazgos y las recomendaciones basadas en el análisis.
 
-**Resultados Esperados**
+[-] **Resultados Esperados**
 
 **Patrones de Temporada:** Identificación de patrones estacionales en la oferta hotelera y parahotelera.
 
