@@ -109,9 +109,14 @@ Lenguajes y herramientas
   </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel cvs"/>
   </a>
- <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
+ <img decoding="async" src="https://img.shields.io/badge/Machine_Learning-FFBE00?style=for-the-badge&logo=Machine_Learning&logoColor=white" alt="machine learning"/>
   </a>
-
+  </a>
+ <img decoding="async" src="https://img.shields.io/badge/GitHub-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
+  </a>
+    </a>
+ <img decoding="async" src="https://img.shields.io/badge/Anaconda-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="machine learning"/>
+  </a>
 </div>
 
 ------------
