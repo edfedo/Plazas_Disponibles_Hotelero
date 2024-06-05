@@ -1,9 +1,6 @@
 
 
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
-[copyright](https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia)
-
-
 <p align="left">
     <a href="https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia">
     <img src="https://img.shields.io/badge/copyright-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="copyright" />
