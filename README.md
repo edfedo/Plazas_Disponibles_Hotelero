@@ -5,8 +5,8 @@
 
 
 <p align="left">
-    <a href="www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia">
-    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="Link WEB IPIEC" />
+    <a href="https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia">
+    <img src="https://img.shields.io/badge/copyright-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="copyright" />
   </a>
 </p>
 
