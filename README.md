@@ -148,6 +148,15 @@ Análisis Exploratorio de Datos (EDA)
 
 ------------
 
+<p align="left">
+    <a href="https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia">
+    <img src="https://img.shields.io/badge/Badges_4_README_Profile-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="Badges 4 README Profile" />
+  </a>
+</p>
+
+
+
+
 [Badges 4 README Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-contact-)
 
 ------------
