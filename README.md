@@ -11,19 +11,12 @@
 
 **Year:** 2024
 
-
-![Vistas de perfil](https://komarev.com/ghpvc/?username=edfedo)
- 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" />
   </a>
 </p>
-
 
 ------------
 
