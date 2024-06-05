@@ -11,7 +11,7 @@
 
 **Year:** 2024
 
-![Vistas de perfil](https://komarev.com/ghpvc/?username=seanpm2001)
+![Vistas de perfil](https://komarev.com/ghpvc/?username=edfedo)
 ------------
 
 **cookiecutter.project:** Plazas Disponibles Hotelero / Available Places Hotelier
