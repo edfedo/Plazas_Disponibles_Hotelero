@@ -39,8 +39,11 @@
 
 ------------
 
-**DataSet:** El mismo fue obtenido desde la web del Instituto Provincial de Analisis E Investigacion, Estadistica y Censos
+**DataSet:** 
 
+| Spañol        | Inglish       |
+| ------------- | ------------- |
+| El mismo fue obtenido desde la web del Instituto Provincial de Analisis E Investigacion, Estadistica y Censos | It was obtained from the website of the Provincial Institute of Analysis and Research, Statistics and Censuses.|
 
 <p align="left">
     <a href="https://ipiec.tierradelfuego.gob.ar">
