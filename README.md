@@ -13,6 +13,8 @@
 
 ![Vistas de perfil](https://komarev.com/ghpvc/?username=edfedo)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ------------
 
 **cookiecutter.project:** Plazas Disponibles Hotelero / Available Places Hotelier
