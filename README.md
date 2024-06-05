@@ -128,7 +128,7 @@ Análisis Exploratorio de Datos (EDA)
 
 ------------
 
-**Lenguajes y herramientas**
+**Languages ​​and Tools**
 
 <div id="header" align="left">
 <img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" />
