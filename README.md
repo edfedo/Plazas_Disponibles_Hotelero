@@ -11,8 +11,6 @@
 
 **Year:** 2024
 
-[![Todos los colaboradores](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
-
 ![Vistas de perfil](https://komarev.com/ghpvc/?username=edfedo)
 
 ------------
