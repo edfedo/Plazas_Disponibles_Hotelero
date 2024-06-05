@@ -31,6 +31,17 @@
 
 ------------
 
+**cookiecutter.description:**
+
+| Spañol        | Inglish |
+| ------------- | ------------- |
+| El objetivo principal de este proyecto es aplicar técnicas de Aprendizaje Automático para analizar   | Content Cell  |
+| y predecir la oferta hotelera y parahotelera en Ushuaia, utilizando datos                            | Content Cell  |
+| históricos de establecimientos, plazas disponibles y habitaciones/unidades disponibles.              | Content Cell  |
+| Este análisis busca proporcionar insights valiosos para los interesados en la industria del turismo, | Content Cell  |
+| permitiendo una mejor planificación y toma de decisiones.                                            | Content Cell  |
+
+
 **cookiecutter.description:** El objetivo principal de este proyecto es aplicar técnicas de Aprendizaje Automático para analizar y predecir la oferta hotelera y parahotelera en Ushuaia, utilizando datos históricos de establecimientos, plazas disponibles y habitaciones/unidades disponibles. Este análisis busca proporcionar insights valiosos para los interesados en la industria del turismo, permitiendo una mejor planificación y toma de decisiones.
 
 ------------
