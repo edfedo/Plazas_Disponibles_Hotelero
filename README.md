@@ -73,8 +73,7 @@ Propósito: Desarrollar un modelo predictivo que ayude a anticipar la demanda y 
 ¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?
 Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático para seleccionar el más adecuado.
 ¿Cuál es el impacto de eventos específicos (por ejemplo, ferias, festivales, condiciones climáticas) en la oferta y demanda de plazas?
-Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia. | What are the seasonal patterns in the supply of available places in the hotel and parahotel sector of Ushuaia?
-Purpose: Identify periods of high and low demand to optimize resource management and strategic planning.
+Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia. | What are the seasonal patterns in the supply of available places in the hotel and parahotel sector of Ushuaia? Purpose: Identify periods of high and low demand to optimize resource management and strategic planning.
 What variables (for example, number of establishments, available rooms) most significantly influence the availability of places in both sectors?
 Purpose: Determine key factors affecting seat availability to improve predictions and supply management.
 Is it possible to predict the number of beds available in the hotel and para-hotel sector for future periods using machine learning models?
