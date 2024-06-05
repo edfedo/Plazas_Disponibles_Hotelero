@@ -11,8 +11,6 @@
 
 **Year:** 2024
 
-
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 ------------
 
 **cookiecutter.project:** Plazas Disponibles Hotelero / Available Places Hotelier
