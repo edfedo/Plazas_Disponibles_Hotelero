@@ -11,10 +11,12 @@
 
 **Year:** 2024
 
+<div>
 ![Vistas de perfil](https://komarev.com/ghpvc/?username=edfedo)
-
+</a> 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+</a> 
+</div>
 ------------
 
 **cookiecutter.project:** Plazas Disponibles Hotelero / Available Places Hotelier
