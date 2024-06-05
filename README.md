@@ -35,8 +35,8 @@
 
 <p align="center">
     </a>
-  <a href="https://www.google.com/chrome/">
-    <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome" />
+  <a href="[https://www.google.com/chrome/](https://ipiec.tierradelfuego.gob.ar)">
+    <img src="https://img.shields.io/badge/Link_WEB_IPIEC-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google Chrome" />
   </a>
 </p>
 
