@@ -4,7 +4,7 @@
 
 <p align="left">
     <a href="https://www.lonelyplanet.com/argentina/tierra-del-fuego/ushuaia">
-    <img src="https://img.shields.io/badge/copyright-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="copyright" />
+    <img src="https://img.shields.io/badge/copyright_photo-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="copyright photo" />
   </a>
 </p>
 
