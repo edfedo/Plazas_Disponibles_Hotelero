@@ -12,9 +12,9 @@
 **Year:** 2024
 
 <div id="header" align="left">
-![Vistas de perfil](https://komarev.com/ghpvc/?username=edfedo)
+<![Vistas de perfil](https://komarev.com/ghpvc/?username=edfedo)>
 </a> 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)>
 </a> 
 </div>
 ------------
