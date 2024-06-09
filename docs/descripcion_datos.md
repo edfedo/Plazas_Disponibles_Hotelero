@@ -134,7 +134,19 @@ Este conjunto de datos proporciona una visión completa del sector de alojamient
 
 ------------
 
-En este caso vamos a usar el dataset “16_3_02_Oferta_Hotelera_por-sector” extraido de la web https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/
+En este caso vamos a usar el dataset “16_3_02_Oferta_Hotelera_por-sector” extraido de la web:
+
+<p align="left">
+    <a href="https://ipiec.tierradelfuego.gob.ar">
+    <img src="https://img.shields.io/badge/Link_WEB_IPIEC-FFA500?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link WEB IPIEC" />
+  </a>
+</p>
+
+<p align="left">
+    <a href="https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/">
+    <img src="https://img.shields.io/badge/Link_WEB_IPIEC_DATASET-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link WEB IPIEC DATASET" />
+  </a>
+</p>
 
 Fuente: INDEC, Encuesta de Ocupación Hotelera (EOH) y Observatorio Estadístico, Municipio de Río Grande, Encuesta de Ocupación Hotelera (EOH). 
 
