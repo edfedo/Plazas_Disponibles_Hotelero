@@ -70,11 +70,11 @@ El dataset contiene datos mensuales sobre la oferta hotelera y parahotelera desd
 **Habitaciones_Unidades_Disponibles_Parahotelero:** Número de habitaciones o unidades disponibles en el sector parahotelero.
 
 
-El conjunto de datos contiene información sobre la disponibilidad de establecimientos turísticos, plazas disponibles (camas) y habitaciones o unidades disponibles a lo largo de varios años y meses. Aquí tienes una descripción detallada:
+Este conjunto de datos tambien contiene información sobre la disponibilidad de establecimientos turísticos, plazas disponibles (camas) y habitaciones o unidades disponibles a lo largo de varios años y meses. Aquí tienes una descripción detallada:
 
-Resumen del Conjunto de Datos
+**Resumen del Conjunto de Datos**
 
-Número de Instancias:
+**Número de Instancias:**
 
 El conjunto de datos tiene datos desde enero de 2008 hasta febrero de 2024, inclusive.
 
@@ -82,58 +82,58 @@ Cada año tiene datos mensuales, excepto algunos valores faltantes debido a circ
 
 Hay 192 instancias (filas).
 
-Características (Columnas) y Tipos de Datos:
+**Características (Columnas) y Tipos de Datos:**
 
-Periodo (Año): El año del registro.
+**Periodo (Año): El año del registro.**
 
 Tipo de Datos: Entero
 
 Ejemplo: 2008, 2009, etc.
 
-Mes (Mes): El mes del registro.
+**Mes (Mes): El mes del registro.**
 
 Tipo de Datos: Cadena (Categórico)
 
 Ejemplo: "enero", "febrero", etc.
 
-Establecimientos: El número de establecimientos turísticos disponibles.
+**Establecimientos: El número de establecimientos turísticos disponibles.**
 
 Tipo de Datos: Entero
 
 Ejemplo: 104, 103, etc.
 
-Plazas disponibles: El número de plazas (camas) disponibles en los establecimientos.
+**Plazas disponibles: El número de plazas (camas) disponibles en los establecimientos.**
 
 Tipo de Datos: Entero
 
 Ejemplo: 70,649, 64,467, etc.
 
-Habitaciones o Unidades disponibles: El número de habitaciones o unidades disponibles en los establecimientos.
+**Habitaciones o Unidades disponibles: El número de habitaciones o unidades disponibles en los establecimientos.**
 
 Tipo de Datos: Entero
 
 Ejemplo: 21,452, 19,372, etc.
 
-Características de los Datos:
+**Características de los Datos:**
 
-Rango Temporal: Los datos abarcan desde enero de 2008 hasta febrero de 2024.
+**Rango Temporal:** Los datos abarcan desde enero de 2008 hasta febrero de 2024.
 
-Granularidad Mensual: Los datos se proporcionan mensualmente para cada año.
+**Granularidad Mensual:** Los datos se proporcionan mensualmente para cada año.
 
-Interrupción en los Datos: Hay una interrupción notable en la recopilación de datos durante 2020 debido a la pandemia de COVID-19, sin datos durante varios meses.
+**Interrupción en los Datos:** Hay una interrupción notable en la recopilación de datos durante 2020 debido a la pandemia de COVID-19, sin datos durante varios meses.
 
-Informacion faltante:
+**Informacion faltante:**
 
 Algunas entradas están marcadas con "s", Ver Referencias
 
 Los meses en 2023 y 2024 marcados con "(*)" Ver Referencias
 
-Referencia:
+**Referencia:**
 
-* Dato provisorio 
-s Dato confidencial por aplicación de las reglas del secreto estadístico
+-> * Dato provisorio 
+-> s Dato confidencial por aplicación de las reglas del secreto estadístico
 
-Ejemplo de Puntos de Datos:
+**Ejemplo de Puntos de Datos:**
 
 Enero 2008:
 
@@ -159,7 +159,7 @@ Plazas disponibles: 33,635
 
 Habitaciones o Unidades disponibles: 7,936
 
-Observaciones Importantes:
+**Observaciones Importantes:**
 
 Tendencias a lo Largo del Tiempo: El número de establecimientos, plazas disponibles y habitaciones generalmente disminuye de 2008 a 2024, con fluctuaciones notables posiblemente debido a factores económicos, ambientales o de salud.
 
