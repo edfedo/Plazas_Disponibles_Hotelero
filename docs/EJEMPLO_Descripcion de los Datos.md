@@ -86,9 +86,9 @@ Hay 192 instancias (filas).
 
 **Periodo (Año): El año del registro.**
 
-Tipo de Datos: Entero
+*Tipo de Datos: Entero
 
-Ejemplo: 2008, 2009, etc.
+*Ejemplo: 2008, 2009, etc.
 
 **Mes (Mes): El mes del registro.**
 
