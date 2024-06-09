@@ -41,6 +41,7 @@ El DataSet fue recortado a los efectos de poner a disposición los datos que se 
 El DataSet fue entregado en formato Excel
 
 
+------------
 
 **Descripción del conjunto de datos:**
 
@@ -50,23 +51,23 @@ El DataSet fue entregado en formato Excel
 
 ------------
 
-Descripción del Dataset
+**Descripción del Dataset**
 
 El dataset contiene datos mensuales sobre la oferta hotelera y parahotelera desde enero de 2008 hasta julio de 2010. Las variables incluidas son:
 
-Periodo: Mes y año del registro.
+**Periodo:** Mes y año del registro.
 
-Establecimientos_Hotelero: Número de establecimientos hoteleros.
+**Establecimientos_Hotelero:** Número de establecimientos hoteleros.
 
-Plazas_Disponibles_Hotelero: Número de plazas disponibles en el sector hotelero.
+**Plazas_Disponibles_Hotelero:** Número de plazas disponibles en el sector hotelero.
 
-Habitaciones_Unidades_Disponibles_Hotelero: Número de habitaciones o unidades disponibles en el sector hotelero.
+**Habitaciones_Unidades_Disponibles_Hotelero:** Número de habitaciones o unidades disponibles en el sector hotelero.
 
-Establecimientos_Parahotelero: Número de establecimientos parahoteleros.
+**Establecimientos_Parahotelero:** Número de establecimientos parahoteleros.
 
-Plazas_Disponibles_Parahotelero: Número de plazas disponibles en el sector parahotelero.
+**Plazas_Disponibles_Parahotelero:** Número de plazas disponibles en el sector parahotelero.
 
-Habitaciones_Unidades_Disponibles_Parahotelero: Número de habitaciones o unidades disponibles en el sector parahotelero.
+**Habitaciones_Unidades_Disponibles_Parahotelero:** Número de habitaciones o unidades disponibles en el sector parahotelero.
 
 ------------
 
