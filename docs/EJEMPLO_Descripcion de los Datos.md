@@ -140,4 +140,4 @@ Fuente: INDEC, Encuesta de Ocupación Hotelera (EOH) y Observatorio Estadístico
 
 Formato: Excel XLSX
 
-Si bien el DataSet original es el “16_3_02_Oferta_Hotelera_por-sector” , se procedera a usar un DataSet Limpio ya trabajodo de nombre "LIMPIO_16_3_02_Oferta_Hotelera_por-sector_LIMPIO"
+Si bien el DataSet original es el “16_3_02_Oferta_Hotelera_por-sector” , se procedera a usar un DataSet Limpio ya trabajado de nombre "LIMPIO_16_3_02_Oferta_Hotelera_por-sector_LIMPIO"
