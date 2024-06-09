@@ -151,6 +151,7 @@ En este caso vamos a usar el dataset “16_3_02_Oferta_Hotelera_por-sector” ex
 Fuente: INDEC, Encuesta de Ocupación Hotelera (EOH) y Observatorio Estadístico, Municipio de Río Grande, Encuesta de Ocupación Hotelera (EOH). 
 
 Formato: Excel XLSX
+
 </a> 
 <img src="https://img.shields.io/badge/Microsoft_Excel_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </a> 
