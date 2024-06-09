@@ -92,27 +92,27 @@ Hay 192 instancias (filas).
 
 **Mes (Mes): El mes del registro.**
 
-Tipo de Datos: Cadena (Categórico)
+* Tipo de Datos: Cadena (Categórico)
 
-Ejemplo: "enero", "febrero", etc.
+* Ejemplo: "enero", "febrero", etc.
 
 **Establecimientos: El número de establecimientos turísticos disponibles.**
 
-Tipo de Datos: Entero
+* Tipo de Datos: Entero
 
-Ejemplo: 104, 103, etc.
+* Ejemplo: 104, 103, etc.
 
 **Plazas disponibles: El número de plazas (camas) disponibles en los establecimientos.**
 
-Tipo de Datos: Entero
+* Tipo de Datos: Entero
 
-Ejemplo: 70,649, 64,467, etc.
+* Ejemplo: 70,649, 64,467, etc.
 
 **Habitaciones o Unidades disponibles: El número de habitaciones o unidades disponibles en los establecimientos.**
 
-Tipo de Datos: Entero
+* Tipo de Datos: Entero
 
-Ejemplo: 21,452, 19,372, etc.
+* Ejemplo: 21,452, 19,372, etc.
 
 **Características de los Datos:**
 
@@ -124,40 +124,40 @@ Ejemplo: 21,452, 19,372, etc.
 
 **Informacion faltante:**
 
-Algunas entradas están marcadas con "s", Ver Referencias
+* Algunas entradas están marcadas con "s", Ver Referencias
 
-Los meses en 2023 y 2024 marcados con "(*)" Ver Referencias
+* Los meses en 2023 y 2024 marcados con "(*)" Ver Referencias
 
 **Referencia:**
 
--> * Dato provisorio 
--> s Dato confidencial por aplicación de las reglas del secreto estadístico
+* -> * Dato provisorio 
+* -> s Dato confidencial por aplicación de las reglas del secreto estadístico
 
 **Ejemplo de Puntos de Datos:**
 
 Enero 2008:
 
-Establecimientos: 104
+* Establecimientos: 104
 
-Plazas disponibles: 70,649
+* Plazas disponibles: 70,649
 
-Habitaciones o Unidades disponibles: 21,452
+* Habitaciones o Unidades disponibles: 21,452
 
 Julio 2010:
 
-Establecimientos: 70
+* Establecimientos: 70
 
-Plazas disponibles: 54,188
+* Plazas disponibles: 54,188
 
-Habitaciones o Unidades disponibles: 11,625
+* Habitaciones o Unidades disponibles: 11,625
 
 Agosto 2023 (Datos preliminares):
 
-Establecimientos: 37
+* Establecimientos: 37
 
-Plazas disponibles: 33,635
+* Plazas disponibles: 33,635
 
-Habitaciones o Unidades disponibles: 7,936
+* Habitaciones o Unidades disponibles: 7,936
 
 **Observaciones Importantes:**
 
