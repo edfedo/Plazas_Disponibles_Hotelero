@@ -39,3 +39,43 @@ El sistema de recolección de datos fue formulado con encuesta telefónica bajo 
 
 El DataSet fue recortado a los efectos de poner a disposición los datos que se utilizaran en esta instancia de aprendizaje.
 El DataSet fue entregado en formato Excel
+
+
+
+**Descripción del conjunto de datos:**
+
+------------
+
+[-] Proporcione una descripción completa del dataset, incluyendo la cantidad de instancias, características (columnas), tipos de datos, y cualquier información relevante.
+
+------------
+
+Descripción del Dataset
+
+El dataset contiene datos mensuales sobre la oferta hotelera y parahotelera desde enero de 2008 hasta julio de 2010. Las variables incluidas son:
+
+Periodo: Mes y año del registro.
+
+Establecimientos_Hotelero: Número de establecimientos hoteleros.
+
+Plazas_Disponibles_Hotelero: Número de plazas disponibles en el sector hotelero.
+
+Habitaciones_Unidades_Disponibles_Hotelero: Número de habitaciones o unidades disponibles en el sector hotelero.
+
+Establecimientos_Parahotelero: Número de establecimientos parahoteleros.
+
+Plazas_Disponibles_Parahotelero: Número de plazas disponibles en el sector parahotelero.
+
+Habitaciones_Unidades_Disponibles_Parahotelero: Número de habitaciones o unidades disponibles en el sector parahotelero.
+
+------------
+
+**Fuente de Datos:**
+
+------------
+
+[-] Informe sobre el origen del dataset, es decir, de dónde provienen los datos. Esto puede incluir la fuente, la fecha de adquisición y cualquier proceso de recopilación o preprocesamiento que haya realizado.
+
+------------
+
+En este caso vamos a usar el dataset “16_3_02_Oferta_Hotelera_por-sector” extraido de la web https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/
