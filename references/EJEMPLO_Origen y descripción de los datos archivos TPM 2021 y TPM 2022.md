@@ -1,6 +1,6 @@
 ## Origen y descripción de los datos archivos 16_3_02_Oferta_Hotelera_por-sector y LIMPIO_16_3_02_Oferta_Hotelera_por-sector_LIMPIO
 
-**Son datos provenientes de la siguiente Fuente: INDEC, Encuesta de Ocupación Hotelera (EOH) y Observatorio Estadístico, Municipio de Río Grande, Encuesta de Ocupación Hotelera (EOH).
+*Son datos provenientes de la siguiente Fuente: INDEC, Encuesta de Ocupación Hotelera (EOH) y Observatorio Estadístico, Municipio de Río Grande, Encuesta de Ocupación Hotelera (EOH).
 Desde los años 2008 al 2023. Los mismos estan en formato excel xlsx.**
 
 #### Diccionario de datos
@@ -16,6 +16,6 @@ Desde los años 2008 al 2023. Los mismos estan en formato excel xlsx.**
 
 *Cuenta con datos imcompletos con la siguiente referencia:
 
--> * Dato provisorio
+- * Dato provisorio
 
--> s Dato confidencial por aplicación de las reglas del secreto estadístico
+- s Dato confidencial por aplicación de las reglas del secreto estadístico
