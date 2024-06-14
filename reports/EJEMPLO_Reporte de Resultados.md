@@ -1,4 +1,4 @@
-## Reporte de Resultados Clasificación Marea Roja
+## Reporte de Resultados Plazas Disponibles Hotelero Ushuaia
 ### Análisis Exploratorio de Datos
 Dentro de la exploración de los datos se encontraron los siguientes patrones de interés:
 
