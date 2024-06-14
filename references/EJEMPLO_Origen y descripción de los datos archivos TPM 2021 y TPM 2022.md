@@ -4,13 +4,13 @@
 Desde los años 2008 al 2023. Los mismos estan en formato excel xlsx.**
 
 #### Diccionario de datos
-| Variable | Descripción | Tipo de Dato |
-| ------------ | ------------ | ------------ |
-| Fecha Análisis | Fecha en la que se realizó el análisis en formato dd/mm/yyyy. | Fecha (datetime). |
-| N° muestra | Numero correlativo de las distintas muestras realizadas en el año. | Entero.   |
-| Producto | Molusco con el cual se realizó el examen M para mejillón, Ch para cholga. | Cadena de Caracteres. |
-| Zona | Código o nombre de la zona de donde se recolecto la muestra. | Cadena de Caracteres. |
-| Resultado | Resultado del examen nivel de toxina paralizante. ND para no detectado. (µg STX eq. kg)* | Real (flotante, dos decimales). |
+| Variable | Descripción | Tipo de Dato | Ejemplo |
+| ------------ | ------------ | ------------ | ------------ |
+| Periodo | Año del registro. | Entero. | 2008 |
+| Mes | Mes del registro en formato de texto. | Cadena de Caracteres.  | enero |
+| Establecimientos | Número de establecimientos registrados en el mes. | Entero. | 104 |
+| Plazas disponibles | Número total de plazas disponibles en los establecimientos registrados. | Entero. | 70,649 |
+| Habitaciones disponibles | Número total de habitaciones o unidades disponibles en los establecimientos registrados. | Entero. | 21,452 |
 
 *El archivo esta dividido en dos sheet que contienen 195 instancias cada una.*
 
