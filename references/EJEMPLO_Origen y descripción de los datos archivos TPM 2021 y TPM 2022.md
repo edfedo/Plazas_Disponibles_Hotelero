@@ -14,8 +14,8 @@ Desde los años 2008 al 2023. Los mismos estan en formato excel xlsx.**
 
 *El archivo esta dividido en dos sheet que contienen 195 instancias cada una.*
 
-*Cuenta con datos imcompletos con la siguiente referencia:
+*Cuenta con datos imcompletos con la siguiente referencia:*
 
-- * Dato provisorio
+- (*) Dato provisorio
 
-- s Dato confidencial por aplicación de las reglas del secreto estadístico
+- (s) Dato confidencial por aplicación de las reglas del secreto estadístico
