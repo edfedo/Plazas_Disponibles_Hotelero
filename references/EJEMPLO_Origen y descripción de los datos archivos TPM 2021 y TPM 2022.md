@@ -1,5 +1,6 @@
-## Origen y descripción de los datos archivos TPM 2021 y TPM 2022
-**Son datos provenientes del Laboratorio de Toxinas y Microbiología de la ciudad de Ushuaia para sus respectivos años (2021 y 2022). Los datos fueron solicitados al laboratorio el dia 23/10/2023 y fueron enviados en formato excel via correo eléctronico**
+## Origen y descripción de los datos archivos 16_3_02_Oferta_Hotelera_por-sector y LIMPIO_16_3_02_Oferta_Hotelera_por-sector_LIMPIO
+**Son datos provenientes de la siguiente Fuente: INDEC, Encuesta de Ocupación Hotelera (EOH) y Observatorio Estadístico, Municipio de Río Grande, Encuesta de Ocupación Hotelera (EOH).
+Desde los años 2008 al 2023. Los mismos estan en formato excel xlsx.**
 
 #### Diccionario de datos
 | Variable | Descripción | Tipo de Dato |
@@ -10,5 +11,7 @@
 | Zona | Código o nombre de la zona de donde se recolecto la muestra. | Cadena de Caracteres. |
 | Resultado | Resultado del examen nivel de toxina paralizante. ND para no detectado. (µg STX eq. kg)* | Real (flotante, dos decimales). |
 
-*El archivo de 2021 contiene 160 instancias mientras que el de 2022 105 instancias, el resto del año los análisis resultaron no detectables.*
-*microgramos de saxitoxina equivalente por kilo de muestra, el limite para que el producto no sea apto para consumo es 800.
+*El archivo esta dividido en dos sheet que contienen 195 instancias cada una.*
+*Cuenta con datos imcompletos con la siguiente referencia:
+-> * Dato provisorio
+-> s Dato confidencial por aplicación de las reglas del secreto estadístico
