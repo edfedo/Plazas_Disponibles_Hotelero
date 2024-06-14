@@ -55,7 +55,7 @@ Posibles Mejoras:
 Aunque el MSE es relativamente alto, podría deberse a algunos valores atípicos o variabilidad inherente en los datos de plazas disponibles. Sería útil analizar estos valores atípicos y considerar técnicas de preprocesamiento adicionales o modelos más sofisticados si se requiere mejorar aún más la precisión.
 
 Validación y Pruebas:
-Es importante también validar el modelo con un conjunto de datos de prueba separado (si no se ha hecho ya) para asegurarse de que estos resultados no son específicos del conjunto de datos de entrenamiento.
+Es importante también validar el modelo con un conjunto de datos de prueba separado (aun no lo hice) para asegurarse de que estos resultados no son específicos del conjunto de datos de entrenamiento.
 
 Análisis Adicional:
 Podría ser útil llevar a cabo un análisis residual para comprobar si hay patrones en los errores que el modelo comete. Esto podría proporcionar información sobre posibles mejoras o ajustes necesarios en el modelo.
