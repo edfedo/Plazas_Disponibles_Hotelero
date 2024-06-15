@@ -32,73 +32,69 @@
 
 #### Random Forest 
 
-[-] Mean Squared Error (MSE):
+[-] Random Forest
 
-- Valor del MSE: 18,190,372.90
-- El MSE mide el promedio de los cuadrados de los errores, es decir, la diferencia entre los valores predichos por el modelo y los valores reales. Un MSE más bajo indica un mejor ajuste del modelo a los datos.
-En este caso, un MSE de 18,190,372.90 es relativamente alto en términos absolutos, pero su interpretación depende del rango de los datos de plazas disponibles. Dado que estamos trabajando con valores de plazas disponibles que pueden alcanzar decenas de miles, este valor podría ser razonable.
+- Accuracy: 0.9867
+- Precision: 1.0000
+- Recall: 0.9744
+- F1 Score: 0.9870
 
-
-[-] R² Score:
-
-- Valor del R²: 0.9765
-- El R² Score, o coeficiente de determinación, mide la proporción de la varianza en la variable dependiente que es predecible a partir de las variables independientes. Su valor varía entre 0 y 1.
-Un R² de 0.9765 indica que el 97.65% de la variación en el número de plazas disponibles puede ser explicada por el modelo. Esto sugiere que el modelo tiene un excelente ajuste a los datos.
+Análisis: El modelo Random Forest muestra una excelente precisión, con una precisión y F1 score casi perfectos. La alta precisión y F1 score indican que el modelo es muy bueno tanto en predecir correctamente las plazas altas como en minimizar los falsos positivos. Sin embargo, el recall ligeramente inferior a la precisión sugiere que podría haber una pequeña cantidad de falsos negativos.
 
 
 [-] Interpretación General:
 
-- Modelo Eficiente:
-El alto valor de R² (cercano a 1) sugiere que el modelo es muy eficaz en capturar la variabilidad de los datos y que tiene un buen rendimiento predictivo.
-
-- Posibles Mejoras:
-Aunque el MSE es relativamente alto, podría deberse a algunos valores atípicos o variabilidad inherente en los datos de plazas disponibles. Sería útil analizar estos valores atípicos y considerar técnicas de preprocesamiento adicionales o modelos más sofisticados si se requiere mejorar aún más la precisión.
-
-- Validación y Pruebas:
-Es importante también validar el modelo con un conjunto de datos de prueba separado (aun no lo hice) para asegurarse de que estos resultados no son específicos del conjunto de datos de entrenamiento.
-
-- Análisis Adicional:
-Podría ser útil llevar a cabo un análisis residual para comprobar si hay patrones en los errores que el modelo comete. Esto podría proporcionar información sobre posibles mejoras o ajustes necesarios en el modelo.
+- El modelo de Random Forest mostró un buen rendimiento en términos de las métricas calculadas (accuracy, precision, recall, f1 score). Sin embargo, la interpretación de estas métricas depende de los valores específicos obtenidos.
+Si las métricas son altas, el modelo puede ser considerado confiable para predecir 'Plazas altas'. Si son bajas, podría necesitar mejoras o una revisión de las características utilizadas.
 
 
 **Conclusiones Finales**
 
-- El modelo parece ser muy eficaz con un R² Score muy alto, pero el MSE indica que todavía hay margen para mejorar la precisión en términos absolutos. La validación adicional y el análisis residual pueden proporcionar más información sobre cómo perfeccionar el modelo.
+1. Random Forest
 
-- Se recomienda explorar el rendimiento de otros algoritmos de aprendizaje automático.
+- Accuracy: 0.9867
+- Precision: 1.0000
+- Recall: 0.9744
+- F1 Score: 0.9870
 
-- Al comparar el rendimiento de diferentes modelos de regresión utilizando el Mean Squared Error (MSE) y el R² Score, podemos obtener una visión más clara de cuál modelo se ajusta mejor a los datos y es más eficaz en la predicción. Aquí tienes un análisis detallado de los resultados para los cuatro modelos: Random Forest, Decision Tree, Linear Regression y Support Vector Regression (SVR).
-
-Random Forest:
-
-MSE: 18,190,372.90
-R²: 0.9765
-Interpretación: El modelo de Random Forest muestra un MSE relativamente bajo y un R² muy alto, lo que indica que es muy eficaz en capturar la variabilidad de los datos y tiene un buen rendimiento predictivo. Este modelo parece ser el más eficiente entre los cuatro, dado su alto R² y bajo MSE.
-
-Decision Tree:
-MSE: 26,065,828.33
-R²: 0.9664
-Interpretación: El modelo de Decision Tree tiene un MSE más alto y un R² más bajo en comparación con Random Forest. Aunque sigue siendo un buen modelo, su capacidad para predecir con precisión es inferior a la de Random Forest. Esto es esperable ya que Random Forest es una combinación de múltiples Decision Trees, lo que generalmente mejora la precisión.
-
-Linear Regression:
-MSE: 19,449,663.73
-R²: 0.9749
-Interpretación: El modelo de regresión lineal tiene un MSE ligeramente superior al de Random Forest, pero todavía es razonablemente bajo. Su R² también es muy alto, lo que indica un buen ajuste a los datos. Aunque no es tan preciso como Random Forest, sigue siendo un modelo sólido para este conjunto de datos.
-
-Support Vector Regression (SVR):
-MSE: 835,893,022.62
-R²: -0.0781
-Interpretación: El modelo SVR tiene un MSE extremadamente alto y un R² negativo, lo que indica que es un mal ajuste para los datos. El R² negativo sugiere que el modelo está peor que simplemente usar la media de los valores observados como predicción. Esto puede deberse a una incorrecta configuración de los hiperparámetros o a la naturaleza de los datos que no se ajusta bien a un modelo SVR. 
+Análisis: El modelo Random Forest muestra una excelente precisión, con una precisión y F1 score casi perfectos. La alta precisión y F1 score indican que el modelo es muy bueno tanto en predecir correctamente las plazas altas como en minimizar los falsos positivos. Sin embargo, el recall ligeramente inferior a la precisión sugiere que podría haber una pequeña cantidad de falsos negativos.
 
 
-Conclusiones Generales:
+2. Logistic Regression
 
-Mejor Modelo: Random Forest es claramente el mejor modelo en este análisis, con el MSE más bajo y el R² más alto, lo que indica una excelente capacidad predictiva y ajuste a los datos.
+- Accuracy: 0.9600
+- Precision: 0.9737
+- Recall: 0.9487
+- F1 Score: 0.9610
 
-Buen Modelo: Linear Regression también muestra un buen rendimiento, con un MSE bajo y un R² alto. Aunque no tan preciso como Random Forest, sigue siendo una opción viable.
+Análisis: La regresión logística también muestra un rendimiento sólido, aunque inferior al de Random Forest. La precisión y el recall son altos, lo que significa que el modelo es bastante equilibrado en términos de predecir correctamente las clases positivas y minimizar tanto los falsos positivos como los falsos negativos. Sin embargo, sus métricas son un poco más bajas que las de Random Forest, lo que indica que puede no ser tan efectivo en este contexto específico.
 
-Modelo Aceptable: Decision Tree tiene un rendimiento aceptable, pero no tan bueno como Random Forest o Linear Regression.
+3. Support Vector Classifier (SVC)
 
-Peor Modelo: SVR es claramente el peor modelo para este conjunto de datos, con un MSE muy alto y un R² negativo, indicando un mal ajuste.
+- Accuracy: 0.9733
+- Precision: 1.0000
+- Recall: 0.9487
+- F1 Score: 0.9737
 
-Este análisis proporciona una clara indicación de que Random Forest es el modelo preferido para este conjunto de datos, seguido de cerca por Linear Regression.
+Análisis: El SVC muestra una precisión perfecta pero un recall un poco menor, similar al Random Forest, pero con un F1 score ligeramente inferior. Esto sugiere que el SVC es muy bueno para minimizar los falsos positivos pero puede pasar por alto algunos casos positivos (plazas altas). Aun así, su rendimiento es robusto y competitivo.
+
+4. Decision Tree
+
+- Accuracy: 0.9467
+- Precision: 0.9268
+- Recall: 0.9744
+- F1 Score: 0.9500
+
+Análisis: El modelo Decision Tree tiene la menor precisión de los cuatro modelos, pero aún muestra un buen rendimiento. Tiene un buen recall, lo que sugiere que es bueno para identificar la mayoría de los casos positivos, pero su precisión más baja indica que tiene más falsos positivos en comparación con otros modelos. Su F1 score, aunque bueno, es inferior al de los otros modelos, lo que sugiere que podría no ser la mejor opción para este conjunto de datos específico.
+
+
+
+- Random Forest es el modelo con el mejor rendimiento general, mostrando una precisión y F1 score casi perfectos. Es altamente recomendado para este conjunto de datos.
+- Support Vector Classifier también muestra un rendimiento fuerte, especialmente en términos de precisión, aunque su recall es un poco más bajo que el de Random Forest.
+- Logistic Regression ofrece un buen equilibrio entre precisión y recall, siendo una opción robusta aunque ligeramente inferior a los dos modelos anteriores.
+- Decision Tree muestra el rendimiento más bajo entre los cuatro modelos, aunque aún es efectivo en términos de recall. Puede ser una opción válida pero con un rendimiento inferior comparado con los otros modelos.
+
+**Para la tarea de predecir 'Plazas altas', el modelo Random Forest es la mejor opción, seguido de cerca por el SVC y la regresión logística. La elección final del modelo puede depender de la preferencia entre minimizar falsos positivos o falsos negativos, y la interpretación de los resultados en el contexto del negocio o investigación.**
+
+
+
