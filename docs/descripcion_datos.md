@@ -150,6 +150,21 @@ En este caso vamos a usar el dataset “16_3_02_Oferta_Hotelera_por-sector” ex
 
 Fuente: INDEC, Encuesta de Ocupación Hotelera (EOH) y Observatorio Estadístico, Municipio de Río Grande, Encuesta de Ocupación Hotelera (EOH). 
 
+
+Área Temática: Turismo
+Tema: Turismo
+Subtema: Actividad e Infraestructura de la industria turística
+Año Desde: 2008
+Año Hasta: 2023
+Distribución geográfica: Ushuaia y Río Grande. Tierra del Fuego AeIAS.
+Fuente: Instituto Provincial de Análisis e Investigación, Estadísticas y Censos sobre la base de datos de la Encuesta de
+Ocupación Hotelera del INDEC, y del Observatorio Estadístico, Secretaría de Modernización e Innovación, Municipio
+de Río Grande.
+
+
+
+
+
 Formato: Excel XLSX
 
 </a> 
