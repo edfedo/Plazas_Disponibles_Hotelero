@@ -34,3 +34,19 @@ Desde los años 2008 al 2023. Los mismos estan en formato excel xlsx.**
   </a>
 </p>
 
+
+Área Temática: Turismo
+
+Tema: Turismo
+
+Subtema: Actividad e Infraestructura de la industria turística
+
+Año Desde: 2008
+
+Año Hasta: 2023
+
+Distribución geográfica: Ushuaia y Río Grande. Tierra del Fuego AeIAS.
+
+Fuente: Instituto Provincial de Análisis e Investigación, Estadísticas y Censos sobre la base de datos de la Encuesta de
+Ocupación Hotelera del INDEC, y del Observatorio Estadístico, Secretaría de Modernización e Innovación, Municipio
+de Río Grande.
