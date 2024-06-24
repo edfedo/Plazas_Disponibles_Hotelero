@@ -29,11 +29,11 @@
 
 **Developed by:** Federico D'Oliveira
 
-**Link Video Proyecto:**
+**Project Video Link:**
 
 <p align="left">
     <a href="https://ipiec.tierradelfuego.gob.ar">
-    <img src="https://img.shields.io/badge/Link_WEB_IPIEC-FFA500?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Proyecto" />
+    <img src="https://img.shields.io/badge/Project-FFA500?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Project" />
   </a>
 </p>
 
