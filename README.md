@@ -183,6 +183,12 @@ Este proyecto incluye un video explicativo.
   Tu navegador no soporta la etiqueta de video.
 </video>
 
+# Mi Proyecto
+
+Este proyecto incluye un video explicativo.
+
+[Ver video](https://github.com/edfedo/Plazas_Disponibles_Hotelero/raw/main/references/Tutotial_COOKIECUTTER_install_simplescreenrecorder-2024-05-31_15.59.48.mp4)
+
 
 ------------
 
