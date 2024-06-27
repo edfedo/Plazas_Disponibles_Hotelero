@@ -1,3 +1,13 @@
+<video width="320" height="240" controls>
+  <source src="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/references/Tutotial_COOKIECUTTER_install_simplescreenrecorder-2024-05-31_15.59.48.mp4
+" type="video/mp4">
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+
+
+
+
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front_b.jpg)
 
 ------------
