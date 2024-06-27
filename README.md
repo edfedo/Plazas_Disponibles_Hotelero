@@ -1,5 +1,7 @@
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front_b.jpg)
 
+------------
+
 ![Ushuaia_TIerra_Del_Fuego](https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png)
 
 <p align="left">
