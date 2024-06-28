@@ -91,7 +91,7 @@
 
 ------------
 
-[-] **Preguntas de Investigacion del Proyecto:**
+[-] **Preguntas de Investigacion del Proyecto / Project Research Questions:**
 
 | Pregunta 1 - Question 1 |
 | ------------- | 
