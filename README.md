@@ -52,7 +52,7 @@
 
 ------------
 
-**DataSet:** 
+**Dataset:** 
 
 | Español       | English       |
 | ------------- | ------------- |
@@ -75,11 +75,7 @@
 
 | Español       | English       |
 | ------------- | ------------- |
-| [-] Descripción completa del dataset, incluyendo la cantidad de
-instancias, características (columnas), tipos de datos, y cualquier información
-relevante. | [-] Complete description of the dataset, including the number of
-instances, features (columns), data types, and any information
-relevant.|
+| [-] Descripción completa del dataset, incluyendo la cantidad de instancias, características (columnas), tipos de datos, y cualquier información relevante. | [-] Complete description of the dataset, including the number of instances, features (columns), data types, and any information relevant.|
 
 
 
