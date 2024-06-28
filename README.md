@@ -221,7 +221,7 @@ Exploratory Data Analysis (EDA)
 
 ------------
 
-[-] **Results:**
+[-] **Results: Plazas Disponibles Hotelero / Available Places Hotelier**
 
 | Español       | English       |
 | ------------- | ------------- |
