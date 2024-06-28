@@ -79,13 +79,13 @@
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/docs/descripcion_datos.md">
-    <img src="https://img.shields.io/badge/Docs_descripcion_datos-FFA500?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link WEB IPIEC" />
+    <img src="https://img.shields.io/badge/Docs_descripcion_datos-FFA500?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link" />
   </a>
 </p>
 
 <p align="left">
-    <a href="https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/">
-    <img src="https://img.shields.io/badge/Link_WEB_IPIEC_DATASET-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link WEB IPIEC DATASET" />
+    <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/references/Origen%20y%20descripcion%20datos%20archivos%20Oferta%20Hotelera.md">
+    <img src="https://img.shields.io/badge/Reference_origen_descripcion_datos_oferta_hotelera-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link" />
   </a>
 </p>
 
