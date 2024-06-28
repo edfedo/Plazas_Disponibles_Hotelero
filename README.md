@@ -114,10 +114,12 @@ Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático
 Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia.
 
 
-| Español       | English       |
-| ------------- | ------------- |
-| [-] El mismo fue obtenido desde la web del Instituto Provincial de Analisis E Investigacion, Estadistica y Censos 
-|[-] It was obtained from the website of the Provincial Institute of Analysis and Research, Statistics and Censuses.|
+| Español - English|
+| ------------- | 
+| ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia? 
+| Propósito: Identificar los períodos de alta y baja demanda para optimizar la gestión de recursos y la planificación estratégica.|
+| SUB
+| SUB                                                                                                               |
 
 
 ------------
