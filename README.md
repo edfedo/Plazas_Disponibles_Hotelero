@@ -100,7 +100,7 @@
 | What are the seasonal patterns in the supply of available places in the hotel and parahotel sector of Ushuaia?
 | Purpose: Identify periods of high and low demand to optimize resource management and strategic planning.|
 
-| ################################################## Pregunta 2 - Question 2 ################################################## |
+| ########################################### Pregunta 2 - Question 2 ########################################### |
 | ------------- | 
 | ¿Qué variables (por ejemplo, número de establecimientos, habitaciones disponibles) influyen más significativamente en la disponibilidad de plazas en ambos sectores?
 | Propósito: Determinar los factores clave que afectan la disponibilidad de plazas para mejorar las predicciones y la gestión de la oferta.|
