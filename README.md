@@ -114,7 +114,7 @@
 | Is it possible to predict the number of beds available in the hotel and para-hotel sector for future periods using machine learning models?
 | Purpose: Develop a predictive model that helps anticipate demand and proactively adjust supply |
 
-|  ############################################ Pregunta 4 - Question 4 ############################################ |
+|  ############################################# Pregunta 4 - Question 4 ############################################# |
 | ------------- | 
 | ¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?
 | Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático para seleccionar el más adecuado.|
