@@ -70,6 +70,19 @@
   </a>
 </p>
 
+
+**Dataset Description:**
+
+| Español       | English       |
+| ------------- | ------------- |
+| [-] Descripción completa del dataset, incluyendo la cantidad de
+instancias, características (columnas), tipos de datos, y cualquier información
+relevante. | [-] Complete description of the dataset, including the number of
+instances, features (columns), data types, and any information
+relevant.|
+
+
+
 ------------
 
 [-] **Preguntas de Investigacion del Proyecto:**
