@@ -121,6 +121,7 @@ Propósito: Analizar cómo eventos específicos afectan la disponibilidad de pla
 | What are the seasonal patterns in the supply of available places in the hotel and parahotel sector of Ushuaia?
 | Purpose: Identify periods of high and low demand to optimize resource management and strategic planning.|
 
+| Español - English|
 | ------------- | 
 | ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia? 
 | Propósito: Identificar los períodos de alta y baja demanda para optimizar la gestión de recursos y la planificación estratégica.|
