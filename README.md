@@ -77,7 +77,17 @@
 | ------------- | ------------- |
 | [-] Descripción completa del dataset, incluyendo la cantidad de instancias, características (columnas), tipos de datos, y cualquier información relevante. | [-] Complete description of the dataset, including the number of instances, features (columns), data types, and any information relevant.|
 
+<p align="left">
+    <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/docs/descripcion_datos.md">
+    <img src="https://img.shields.io/badge/Docs_descripcion_datos-FFA500?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link WEB IPIEC" />
+  </a>
+</p>
 
+<p align="left">
+    <a href="https://ipiec.tierradelfuego.gob.ar/estadisticas-economicas-2/">
+    <img src="https://img.shields.io/badge/Link_WEB_IPIEC_DATASET-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link WEB IPIEC DATASET" />
+  </a>
+</p>
 
 ------------
 
