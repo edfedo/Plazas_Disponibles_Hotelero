@@ -38,7 +38,7 @@
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png">
-    <img src="https://img.shields.io/badge/Project_Video_Link_Hotelero-277D24?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Project" />
+    <img src="https://img.shields.io/badge/Project_Video_Link_Hotelero-277D24?style=for-the-badge&logo=github&logoColor=white" alt="Project" />
   </a>
 </p>
 
