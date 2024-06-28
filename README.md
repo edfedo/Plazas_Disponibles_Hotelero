@@ -221,6 +221,20 @@ Exploratory Data Analysis (EDA)
 
 ------------
 
+**Results:**
+
+| Español       | English       |
+| ------------- | ------------- |
+| [-] Descripción completa de los resultados. | [-] Complete description of the results.|
+
+<p align="left">
+    <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/Reporte%20de%20Resultados.md">
+    <img src="https://img.shields.io/badge/Reports_reporte_de_resultados-F37626?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
+  </a>
+</p>
+
+------------
+
 **Languages ​​and Tools**
 
 <div id="header" align="left">
