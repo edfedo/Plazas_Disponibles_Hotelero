@@ -125,13 +125,13 @@
 | ------------- | 
 | ¿Cuál es el impacto de eventos específicos (por ejemplo, ferias, festivales, condiciones climáticas) en la oferta y demanda de plazas?
 | Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia.|
-| What is the impact of specific events (e.g. fairs, festivals, weather conditions) on the supply and demand of places?
+| What is the impact of specific events (fairs, festivals, weather conditions) on the supply and demand of places?
 | Purpose: Analyze how specific events affect seat availability and adjust planning strategies accordingly.|
 
 
 ------------
 
-[-] **Diferentes Etapas del Proyecto:**
+[-] **Diferentes Etapas del Proyecto**
 
 [-] **Metodología Extracción y Preparación de Datos**
 
@@ -173,6 +173,51 @@ Análisis Exploratorio de Datos (EDA)
 **Patrones de Temporada:** Identificación de patrones estacionales en la oferta hotelera y parahotelera.
 
 **Predicciones de Oferta:** Modelos predictivos que puedan estimar la disponibilidad futura de plazas y habitaciones.
+
+------------
+
+[-] **Different Stages of the Project:**
+
+[-] **Data Extraction and Preparation Methodology:**
+
+**Data Extraction:** Data was extracted from a file and converted to a pandas DataFrame.
+
+**Preprocessing:** Includes converting the Period column to a date format, handling null values, and scaling the data if necessary.
+Exploratory Data Analysis (EDA)
+
+**Data Visualization:** Use of graphs to understand the distribution of variables.
+
+**Descriptive Statistics:** Calculation of means, medians, standard deviations and other relevant statistics.
+
+**Correlation:** Analysis of the correlation between the different variables to identify important relationships.
+
+[-] **Predictive Modeling**
+
+**Model Selection:** Choosing suitable machine learning models, such as linear regression, decision trees or neural networks.
+
+**Model Training:** Split the data into training and test sets, and train the models using the training set.
+
+**Model Evaluation:** Measure model performance using appropriate metrics such as MAE, MSE, RMSE or R2.
+
+[-] **Optimization and Validation**
+
+**Hyperparameter Optimization:** Adjustment of the model's hyperparameters to improve its performance.
+
+**Cross Validation:** Use of cross validation techniques to ensure that the model generalizes well to unseen data.
+
+[-] **Interpretation and Communication of Results**
+
+**Interpretation of Results:** Analysis of the results obtained to extract significant conclusions.
+
+**Results Visualization:** Presentation of the results through clear and understandable graphs and visualizations.
+
+**Final Report:** Preparation of a detailed report summarizing the findings and recommendations based on the analysis.
+
+[-] **Expected results**
+
+**Seasonal Patterns:** Identification of seasonal patterns in the hotel and parahotel offer.
+
+**Supply Predictions:** Predictive models that can estimate the future availability of places and rooms.
 
 ------------
 
