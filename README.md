@@ -11,13 +11,13 @@
   </a>
 </p>
 
-[-]**Degree:** Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+[-] **Degree:** Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
 
-[-]**Institution:** Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
+[-] **Institution:** Politécnico Malvinas Argentinas.  https://politecnico.tdf.gob.ar/
 
-[-]**Subject:** Aprendizaje Automático / Machine Learning
+[-] **Subject:** Aprendizaje Automático / Machine Learning
 
-[-]**Year:** 2024
+[-] **Year:** 2024
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=edfedo" alt="Vistas de perfil" />
@@ -28,13 +28,13 @@
 
 ------------
 
-[-]**cookiecutter.project:** Plazas Disponibles Hotelero / Available Places Hotelier
+[-] **cookiecutter.project:** Plazas Disponibles Hotelero / Available Places Hotelier
 
-[-]**Developed by:** Federico D'Oliveira
+[-] **Developed by:** Federico D'Oliveira
 
-[-]**Project support:** Martin Mirabete
+[-] **Project support:** Martin Mirabete
 
-[-]**The video link is under construction**
+[-] **The video link is under construction**
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/figures/Front.png">
@@ -44,7 +44,7 @@
 
 ------------
 
-[-]**cookiecutter.description:**
+[-] **cookiecutter.description:**
 
 | Plazas Hoteleras Disponibles 2024 – Random Forest - Ushuaia | Available Hotel Places 2024 – Random Forest - Ushuaia |
 | ------------- | ------------- |
@@ -52,7 +52,7 @@
 
 ------------
 
-[-]**Dataset:** 
+[-] **Dataset:** 
 
 | Español       | English       |
 | ------------- | ------------- |
@@ -71,7 +71,7 @@
 </p>
 
 
-[-]**Dataset Description:**
+[-] **Dataset Description:**
 
 | Español       | English       |
 | ------------- | ------------- |
@@ -221,7 +221,7 @@ Exploratory Data Analysis (EDA)
 
 ------------
 
-[-]**Results:**
+[-] **Results:**
 
 | Español       | English       |
 | ------------- | ------------- |
@@ -235,7 +235,7 @@ Exploratory Data Analysis (EDA)
 
 ------------
 
-[-]**Languages ​​and Tools**
+[-] **Languages ​​and Tools**
 
 <div id="header" align="left">
 <img src="https://img.shields.io/badge/Cookiecutter-D4AA00?style=for-the-badge&logo=Cookiecutter&logoColor=white" />
