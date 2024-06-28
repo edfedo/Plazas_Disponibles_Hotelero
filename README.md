@@ -93,7 +93,7 @@
 
 [-] **Preguntas de Investigacion del Proyecto / Project Research Questions:**
 
-| Pregunta 1 - Question 1 |
+| ########################################### Pregunta 1 - Question 1 ########################################### |
 | ------------- | 
 | ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia? 
 | Propósito: Identificar los períodos de alta y baja demanda para optimizar la gestión de recursos y la planificación estratégica.|
