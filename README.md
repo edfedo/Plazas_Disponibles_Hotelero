@@ -79,13 +79,13 @@
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/docs/descripcion_datos.md">
-    <img src="https://img.shields.io/badge/Docs_descripcion_datos-D4AA00?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link" />
+    <img src="https://img.shields.io/badge/Docs_descripcion_datos-F37626?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link" />
   </a>
 </p>
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/references/Origen%20y%20descripcion%20datos%20archivos%20Oferta%20Hotelera.md">
-    <img src="https://img.shields.io/badge/Reference_origen_descripcion_datos_oferta_hotelera-D4AA01?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link" />
+    <img src="https://img.shields.io/badge/Reference_origen_descripcion_datos_oferta_hotelera-F37626?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Link" />
   </a>
 </p>
 
