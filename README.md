@@ -93,35 +93,35 @@
 
 [-] **Preguntas de Investigacion del Proyecto / Project Research Questions:**
 
-| ########################################### Pregunta 1 - Question 1 |
+| Pregunta 1 - Question 1 |
 | ------------- | 
 | ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia? 
 | Propósito: Identificar los períodos de alta y baja demanda para optimizar la gestión de recursos y la planificación estratégica.|
 | What are the seasonal patterns in the supply of available places in the hotel and parahotel sector of Ushuaia?
 | Purpose: Identify periods of high and low demand to optimize resource management and strategic planning.|
 
-| ########################################### Pregunta 2 - Question 2 |
+| Pregunta 2 - Question 2 |
 | ------------- | 
 | ¿Qué variables (por ejemplo, número de establecimientos, habitaciones disponibles) influyen más significativamente en la disponibilidad de plazas en ambos sectores?
 | Propósito: Determinar los factores clave que afectan la disponibilidad de plazas para mejorar las predicciones y la gestión de la oferta.|
 | What variables (for example, number of establishments, available rooms) most significantly influence the availability of places in both sectors?
 | Purpose: Determine key factors affecting seat availability to improve predictions and supply management.|
 
-|  ########################################### Pregunta 3 - Question 3 |
+| Pregunta 3 - Question 3 |
 | ------------- | 
 | ¿Es posible predecir la cantidad de plazas disponibles en el sector hotelero y parahotelero para futuros períodos utilizando modelos de aprendizaje automático?
 | Propósito: Desarrollar un modelo predictivo que ayude a anticipar la demanda y ajustar la oferta de manera proactiva|
 | Is it possible to predict the number of beds available in the hotel and para-hotel sector for future periods using machine learning models?
 | Purpose: Develop a predictive model that helps anticipate demand and proactively adjust supply |
 
-|  ############################################ Pregunta 4 - Question 4 |
+| Pregunta 4 - Question 4 |
 | ------------- | 
 | ¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?
 | Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático para seleccionar el más adecuado.|
 | How does prediction accuracy vary when using different machine learning techniques?
 | Purpose: Compare the performance of various machine learning models to select the most suitable one.|
 
-|  ########################################### Pregunta 5 - Question 5 |
+| Pregunta 5 - Question 5 |
 | ------------- | 
 | ¿Cuál es el impacto de eventos específicos (por ejemplo, ferias, festivales, condiciones climáticas) en la oferta y demanda de plazas?
 | Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia.|
