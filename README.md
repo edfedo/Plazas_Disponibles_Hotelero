@@ -32,6 +32,8 @@
 
 **Developed by:** Federico D'Oliveira
 
+**Project support:** Martin Mirabete
+
 **The video link is under construction**
 
 <p align="left">
