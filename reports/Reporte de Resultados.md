@@ -99,7 +99,7 @@ Análisis: El modelo Decision Tree tiene la menor precisión de los cuatro model
 --------------
 --------------
 
-[-]**Preguntas a Responder del proyecto:**
+[-]**Preguntas a Responder del proyecto: Primer Codigo** 
 
 Se responderan cada una de las preguntas de investigacion del proyecto con base en el analisis realizado y los resultados obtenidos:
 
@@ -137,3 +137,44 @@ Se responderan cada una de las preguntas de investigacion del proyecto con base 
 
 --------------
 --------------
+
+[-]**Preguntas a Responder del proyecto: Segundo Codigo, agregados como Fechas Festivas, etc**
+
+**1. ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia?**
+
+- Propósito: Identificar los períodos de alta y baja demanda para optimizar la gestión de recursos y la planificación estratégica.
+
+- Respuesta: Los patrones estacionales observados en la oferta de plazas disponibles muestran un aumento significativo durante los meses de verano (diciembre a febrero), indicando alta demanda turística en esos períodos. Además, se ha identificado que algunos días festivos específicos también influyen en la disponibilidad de plazas, lo que sugiere un aumento temporal en la demanda durante estos eventos. En contraste, los meses de invierno (junio a agosto) muestran una menor disponibilidad de plazas, indicando una baja demanda en estos períodos.
+
+**2. ¿Qué variables (por ejemplo, número de establecimientos, habitaciones disponibles) influyen más significativamente en la disponibilidad de plazas en ambos sectores?**
+
+- Propósito: Determinar los factores clave que afectan la disponibilidad de plazas para mejorar las predicciones y la gestión de la oferta.
+
+- Respuesta: Las variables "Establecimientos" y "Habitaciones o Unidades disponibles" continúan mostrando una correlación significativa con la variable "Plazas disponibles", lo que confirma su importancia en la disponibilidad de plazas. La inclusión de la variable de días festivos ("Holiday") también muestra una influencia notable, indicando que durante los días festivos hay un impacto positivo en la disponibilidad de plazas, lo que sugiere una alta demanda en estos períodos.
+
+**3. ¿Es posible predecir la cantidad de plazas disponibles en el sector hotelero y parahotelero para futuros períodos utilizando modelos de aprendizaje automático?**
+
+- Propósito: Desarrollar un modelo predictivo que ayude a anticipar la demanda y ajustar la oferta de manera proactiva.
+
+- Respuesta: Sí, es posible predecir la cantidad de plazas disponibles utilizando modelos de aprendizaje automático. El modelo de Random Forest utilizado, que incluye la variable de días festivos, ha demostrado ser muy preciso con una exactitud del 97.33%. Esto indica que los modelos de aprendizaje automático pueden ser efectivos para anticipar la demanda y ajustar la oferta de plazas de manera proactiva.
+
+**4. ¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?**
+
+- Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático para seleccionar el más adecuado.
+
+- Respuesta: Aunque en este análisis solo se utilizó el modelo de Random Forest, este modelo mostró un alto desempeño con una precisión del 97.33%, precisión del 97.44%, recall del 97.44% y un puntaje F1 del 97.44%. Para una comparación completa, se podrían probar otros modelos como Support Vector Machines (SVM), Gradient Boosting, y redes neuronales. Comparar el rendimiento de estos modelos en términos de precisión, recall, puntaje F1 y otras métricas permitiría seleccionar el modelo más adecuado para las predicciones de plazas disponibles.
+
+**5. ¿Cuál es el impacto de eventos específicos (por ejemplo, ferias, festivales, condiciones climáticas) en la oferta y demanda de plazas?**
+
+- Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia.
+
+- Respuesta: La inclusión de los días festivos como variable en el análisis ha mostrado que estos eventos tienen un impacto significativo en la disponibilidad de plazas, aumentando la demanda durante estos períodos. Para analizar el impacto de otros eventos específicos, como ferias, festivales y condiciones climáticas, sería necesario incorporar datos adicionales sobre estos eventos en el análisis. Esto permitiría una evaluación más precisa del impacto de estos eventos y ayudaría a ajustar las estrategias de planificación en consecuencia.
+
+**Conclusión:** La incorporación de días festivos en el análisis ha proporcionado una comprensión más profunda de cómo estos eventos afectan la disponibilidad de plazas. Las herramientas y técnicas de análisis de datos y aprendizaje automático siguen ofreciendo un gran potencial para entender y predecir la disponibilidad de plazas en el sector hotelero y parahotelero de Ushuaia. Con un análisis más detallado y la inclusión de más variables, como eventos específicos y condiciones climáticas, se puede optimizar aún más la gestión de recursos y la planificación estratégica en este sector.
+
+--------------
+--------------
+
+
+
+
