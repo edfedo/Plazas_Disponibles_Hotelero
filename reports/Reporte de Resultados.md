@@ -99,7 +99,7 @@ Análisis: El modelo Decision Tree tiene la menor precisión de los cuatro model
 --------------
 --------------
 
-[-]**Preguntas a Responder del proyecto: Primer Codigo** 
+[-] **Preguntas a Responder del proyecto: Primer Codigo** 
 
 Se responderan cada una de las preguntas de investigacion del proyecto con base en el analisis realizado y los resultados obtenidos:
 
@@ -138,7 +138,7 @@ Se responderan cada una de las preguntas de investigacion del proyecto con base 
 --------------
 --------------
 
-[-]**Preguntas a Responder del proyecto: Segundo Codigo, agregados como Fechas Festivas, etc**
+[-] **Preguntas a Responder del proyecto: Segundo Codigo, agregados como Fechas Festivas, etc**
 
 **1. ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia?**
 
