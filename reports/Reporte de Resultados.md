@@ -96,5 +96,44 @@ Análisis: El modelo Decision Tree tiene la menor precisión de los cuatro model
 
 **Para la tarea de predecir 'Plazas altas', el modelo Random Forest es la mejor opción, seguido de cerca por el SVC y la regresión logística. La elección final del modelo puede depender de la preferencia entre minimizar falsos positivos o falsos negativos, y la interpretación de los resultados en el contexto del negocio o investigación.**
 
+--------------
+--------------
 
+[-]**Preguntas a Responder del proyecto:**
 
+Se responderan cada una de las preguntas de investigacion del proyecto con base en el analisis realizado y los resultados obtenidos:
+
+**1. ¿Cuáles son los patrones estacionales en la oferta de plazas disponibles en el sector hotelero y parahotelero de Ushuaia?**
+
+Propósito: Identificar los períodos de alta y baja demanda para optimizar la gestión de recursos y la planificación estratégica.
+
+Respuesta: Al analizar las gráficas de series temporales y la disponibilidad de plazas a lo largo del tiempo, observamos que hay fluctuaciones estacionales claras en la oferta de plazas disponibles. Por ejemplo, durante los meses de verano (diciembre a febrero), hay un aumento notable en la disponibilidad de plazas, lo cual sugiere una alta demanda turística en estos períodos. En contraste, los meses de invierno (junio a agosto) muestran una menor disponibilidad, indicando una baja demanda.
+
+**2. ¿Qué variables (por ejemplo, número de establecimientos, habitaciones disponibles) influyen más significativamente en la disponibilidad de plazas en ambos sectores?**
+
+Propósito: Determinar los factores clave que afectan la disponibilidad de plazas para mejorar las predicciones y la gestión de la oferta.
+
+Respuesta: De acuerdo con la matriz de correlación, las variables "Establecimientos" y "Habitaciones o Unidades disponibles" muestran una correlación significativa con la variable "Plazas disponibles". Esto indica que estas dos variables son factores clave que influyen en la disponibilidad de plazas en el sector hotelero y parahotelero. Específicamente, un mayor número de establecimientos y habitaciones disponibles tienden a asociarse con una mayor cantidad de plazas disponibles.
+
+**3. ¿Es posible predecir la cantidad de plazas disponibles en el sector hotelero y parahotelero para futuros períodos utilizando modelos de aprendizaje automático?**
+
+Propósito: Desarrollar un modelo predictivo que ayude a anticipar la demanda y ajustar la oferta de manera proactiva.
+
+Respuesta: Sí, es posible predecir la cantidad de plazas disponibles utilizando modelos de aprendizaje automático. En nuestro análisis, entrenamos un modelo de Random Forest que mostró un alto desempeño en términos de precisión, sensibilidad y puntaje F1, con una exactitud del 97.33%. Esto indica que los modelos de aprendizaje automático pueden ser efectivos para anticipar la demanda y ajustar la oferta de plazas.
+
+**4. ¿Cómo varía la precisión de las predicciones al usar diferentes técnicas de aprendizaje automático?**
+
+Propósito: Comparar el rendimiento de varios modelos de aprendizaje automático para seleccionar el más adecuado.
+
+Respuesta: En este análisis, utilizamos un modelo de Random Forest, que es conocido por su robustez y precisión. Sin embargo, para una comparación completa, se podrían probar otros modelos como Support Vector Machines (SVM), Gradient Boosting, y redes neuronales. Cada modelo tiene sus propias ventajas y limitaciones. Comparar el rendimiento de estos modelos en términos de precisión, sensibilidad, puntaje F1, y otras métricas, permitiría seleccionar el modelo más adecuado para las predicciones de plazas disponibles.
+
+**5. ¿Cuál es el impacto de eventos específicos (por ejemplo, ferias, festivales, condiciones climáticas) en la oferta y demanda de plazas?**
+
+Propósito: Analizar cómo eventos específicos afectan la disponibilidad de plazas y ajustar las estrategias de planificación en consecuencia.
+
+Respuesta: Para responder a esta pregunta, sería necesario incorporar datos adicionales sobre eventos específicos, ferias, festivales y condiciones climáticas en el análisis. Actualmente, no se incluyeron estos datos en el análisis realizado. Sin embargo, es plausible que eventos especiales y condiciones climáticas extremas tengan un impacto significativo en la oferta y demanda de plazas. Incorporar estos datos en futuros modelos de predicción podría mejorar la precisión y proporcionar insights valiosos para la planificación estratégica.
+
+**Conclusión:** Las herramientas y técnicas de análisis de datos y aprendizaje automático ofrecen un gran potencial para entender y predecir la disponibilidad de plazas en el sector hotelero y parahotelero de Ushuaia. Con un análisis más detallado y la inclusión de más variables, como eventos específicos y condiciones climáticas, se puede optimizar aún más la gestión de recursos y la planificación estratégica en este sector.
+
+--------------
+--------------
