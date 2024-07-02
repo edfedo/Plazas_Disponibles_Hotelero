@@ -34,8 +34,6 @@
 
 [-] **Project support:** Martin Mirabete
 
-[-] **The video link is under construction**
-
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/references/Video_TP_simplescreenrecorder-2024-07-02_16.25.19.mp4">
     <img src="https://img.shields.io/badge/Project_Video_Link_Hotelero-277D24?style=for-the-badge&logo=github&logoColor=white" alt="Project" />
