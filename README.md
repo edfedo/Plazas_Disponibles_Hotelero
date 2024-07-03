@@ -40,6 +40,10 @@
   </a>
 </p>
 
+- Por favor usar vlc para ver el video, o actualizar codecs en caso de no poder verlo o escuchar el sonido
+
+- Please use vlc to see the video, or update codecs in case you can't see it or hear the sound
+
 ------------
 
 [-] **cookiecutter.description:**
