@@ -50,3 +50,11 @@ Distribución geográfica: Ushuaia y Río Grande. Tierra del Fuego AeIAS.
 Fuente: Instituto Provincial de Análisis e Investigación, Estadísticas y Censos sobre la base de datos de la Encuesta de
 Ocupación Hotelera del INDEC, y del Observatorio Estadístico, Secretaría de Modernización e Innovación, Municipio
 de Río Grande.
+
+DataSet:
+
+<p align="left">
+    <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/tree/main/data/external">
+    <img src="https://img.shields.io/badge/Link_Excel_CSV_DataSets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </a>
+</p>
