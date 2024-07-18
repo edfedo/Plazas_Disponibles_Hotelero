@@ -83,13 +83,13 @@
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/docs/descripcion_datos.md">
-    <img src="https://img.shields.io/badge/Docs_descripcion_datos-F37626?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
+    <img src="https://img.shields.io/badge/Link_Docs_descripcion_datos-F37626?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
   </a>
 </p>
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/references/Origen%20y%20descripcion%20datos%20archivos%20Oferta%20Hotelera.md">
-    <img src="https://img.shields.io/badge/Reference_origen_descripcion_datos_oferta_hotelera-F37626?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
+    <img src="https://img.shields.io/badge/Link_Reference_origen_descripcion_datos_oferta_hotelera-F37626?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
   </a>
 </p>
 
@@ -233,7 +233,7 @@ Exploratory Data Analysis (EDA)
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/reports/Reporte%20de%20Resultados.md">
-    <img src="https://img.shields.io/badge/Reports_reporte_de_resultados-F38026?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
+    <img src="https://img.shields.io/badge/Link_Reports_reporte_de_resultados-F38026?style=for-the-badge&logo=github&logoColor=white" alt="Link" />
   </a>
 </p>
 
