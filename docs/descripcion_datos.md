@@ -170,8 +170,11 @@ de Río Grande.
 
 Formato: Excel XLSX
 
-</a> 
-<img src="https://img.shields.io/badge/Microsoft_Excel_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</a> 
+<p align="left">
+    <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/tree/main/data/external">
+    <img src="https://img.shields.io/badge/Microsoft_Excel_CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </a>
+</p>
+
 
 Si bien el DataSet original es el “16_3_02_Oferta_Hotelera_por-sector” , se procedera a usar un DataSet Limpio ya trabajado de nombre "LIMPIO_16_3_02_Oferta_Hotelera_por-sector_LIMPIO"
