@@ -41,7 +41,7 @@
 - Please use vlc to see the video, or update codecs if you cannot see it or hear the sound (Follow the link and click View raw, this will download the video)
 
 <p align="left">
-    <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/references/Video_TP_simplescreenrecorder-2024-07-02_16.25.19.mp4">
+    <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/blob/main/references/Video_TP_V2_simplescreenrecorder-2024-07-18_00.21.25.mp4">
     <img src="https://img.shields.io/badge/Link_Project_Hotelero_Video-277D24?style=for-the-badge&logo=github&logoColor=white" alt="Project" />
   </a>
 </p>
