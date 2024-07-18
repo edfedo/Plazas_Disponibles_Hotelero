@@ -55,6 +55,6 @@ DataSet:
 
 <p align="left">
     <a href="https://github.com/edfedo/Plazas_Disponibles_Hotelero/tree/main/data/external">
-    <img src="https://img.shields.io/badge/Link_Excel_CSV_DataSets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Link_Excel_CSV_DataSets-217346?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
